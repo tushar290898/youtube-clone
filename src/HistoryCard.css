@@ -1,0 +1,14 @@
+
+.History{
+    display: flex;
+    margin: 30px;
+    overflow: hidden;
+    border-bottom: 1px solid lightgray;
+}
+
+.videocard_info{
+    display: flex;
+    margin-left: 20px;
+    margin-top: -20px;
+}
+

@@ -1,0 +1,35 @@
+.header_side{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color: white;
+}
+
+.header_img{
+    height: 25px;
+    object-fit: contain;
+    padding-left: 20px;
+}
+
+.header_input{
+    display: flex;
+    align-items: center;
+    width: 40%;
+    border: 1px solid black;
+}
+.header_input>input{
+    flex: 1;
+    border: none;
+    outline: none;
+}
+.input_logo{
+    color: grey;
+}
+
+.Allicons{
+    padding-left: 10px 20px;
+}

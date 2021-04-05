@@ -1,0 +1,7 @@
+.HistorySearch{
+    flex:0.8;
+}
+.HistorySearch > h2{
+    font-size: 25px;
+    font-weight: 600;
+}

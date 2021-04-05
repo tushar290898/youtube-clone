@@ -1,0 +1,11 @@
+.videoCard{
+    
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 30px;
+}
+
+.heading{
+    margin-left: 20px;
+}
